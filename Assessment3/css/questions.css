@@ -1,0 +1,46 @@
+/*
+    Q1 - Write a media query for desktop first.  The break point needs to be at 960px;
+    @media screen and (max-width:960px){
+        body{
+            font-size: 14px;
+        }
+    }
+*/
+
+
+
+/*
+    Q2 - Write a media query for mobile first.  The break point needs to be at 720px;
+
+    @media screen and (min-width: 720px){
+
+    }
+*/
+
+
+/*
+    Q3 - What CSS property are you having the most trouble figuring out?
+
+Answer of question No 3
+In CSS3 I am very familar to css properties among these properties that I have trouble figuring out in 'color Gradient and descendant selector'.
+CSS gradients allow us to display a transition from one color to another. Gradient areone of the most vendor prefix heavy css properties.
+because diffrence browser have diffrence gradients. such as,background: -moz-linear-gradient(top,  #1e5799 0%, #7db9e8 100%); /* FF3.6-15 */
+/*background: -webkit-linear-gradient(top,  #1e5799 0%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+
+
+
+/*
+    Q4 - What is the best CSS property and why?
+
+
+Answer of Qn.4
+
+CSS stands for "Cascading style Sheet". Cascading style sheets are used to format the layout of Web pages.
+They can be used to define text styles, table sizes, and other aspects of web pages.It helps web developer create a uniform look 
+across several pages of web site.
+There are various properties the best properties are:-
+1)font-properties:- font-family, font-style, font-weight.
+ 2) color and background properties :- background-image, background-color, background-position
+ 3)text properties 4)box properties:- word spacing, text Transformation, text decoration, text alignment
+4) Box properties:- margin, padding, height, float
+*/
